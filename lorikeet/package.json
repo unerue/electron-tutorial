@@ -6,6 +6,7 @@
         "start": "electron ."
     },
     "dependencies": {
+        "async": "^3.2.0",
         "osenv": "^0.1.5"
     }
 }
